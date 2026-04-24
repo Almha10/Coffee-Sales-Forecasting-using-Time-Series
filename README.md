@@ -1,1 +1,40 @@
 # Coffee-Sales-Time-Series-Analysis
+## 📂 Project Files
+- Notebook: Coffee_Sales_Time_Series_Analysis.ipynb
+- Dataset: Coffe_sales.xlsx
+- Presentation: Black and White Minimalist Coffee Shop Presentation.pdf
+
+## 📌 Project Overview
+This project analyzes and predicts coffee sales using time series models.  
+It was developed as part of a Data Science training program at Tuwaiq Academy.
+
+## 🎯 Objective
+To explore patterns in coffee sales data and build forecasting models to predict future demand.
+
+## 🧠 Techniques Used
+- Data Cleaning & Preprocessing
+- Time Series Analysis
+- ACF / PACF Analysis
+- Statistical Testing (ADF Test)
+- Visualization (Matplotlib & Seaborn)
+
+## 📊 Key Insights
+- Sales show an increasing trend over time  
+- Strong seasonality based on time of day  
+- Peak demand occurs in the morning & afternoon  
+- Data is not purely random (validated with ADF test)
+
+## 🛠 Tools & Technologies
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Statsmodels
+
+## 🎥 Presentation
+This project was presented as part of a final presentation demonstrating insights and forecasting results.
+
+## 🚀 Future Improvements
+- Deploy as an interactive dashboard
+- Apply advanced forecasting models (ARIMA, Prophet)
+- Real-time data integration
